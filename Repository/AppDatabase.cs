@@ -32,7 +32,8 @@ namespace SPP.Repository
 			{
 				new Establishment() { Id = 1, Name = "Establishment 1", TotalSpots = 150, InitialPrice = 4, PricePerHour = 1 },
 				new Establishment() { Id = 2, Name = "Establishment 2", TotalSpots = 300, InitialPrice = 3, PricePerHour = 2 },
-				new Establishment() { Id = 3, Name = "Establishment 3", TotalSpots = 450, InitialPrice = 2, PricePerHour = 1 }
+				new Establishment() { Id = 3, Name = "Establishment 3", TotalSpots = 450, InitialPrice = 2, PricePerHour = 1 },
+				new Establishment() { Id = 4, Name = "Establishment 4", TotalSpots = 50, InitialPrice = 0, PricePerHour = 2 }
 			};
 			_establishments = establishments;
 			
